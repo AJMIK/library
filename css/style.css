@@ -1,0 +1,25 @@
+.lib
+{
+    background: pink;
+}
+.text1
+{
+    color: red;
+    font-size: 50px;
+}
+.text
+{
+    color: blue;
+    font-size: 50px;
+}
+.text:hover{
+    color: red;
+    font-size: 100px;
+}
+.lg1
+{
+    background-image: url("../image/download.jpg") ;
+}
+.lg11{
+    background-image: url("../image/download//(5/).jpg (5).jpg");
+}
